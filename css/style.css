@@ -1,0 +1,44 @@
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+  }
+  
+  .titulo {
+    color: #ec183f;
+    margin: 23px 0 10px 0;
+  }
+  
+  .secao small {
+    font-weight: bold;
+  }
+  
+  .secao img {
+    max-width: 1024px;
+    width: 100%;
+  }
+  
+  .corpo-texto {
+    margin: 10px 0 20px 0;
+  }
+  
+  .rodape {
+    border-top: 1px solid gray;
+    padding: 20px 0;
+  }
+  
+  .lista-rodape {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .rede-social {
+  }
+  
+  
+  .rede-social img {
+    width: 42px;
+  }
